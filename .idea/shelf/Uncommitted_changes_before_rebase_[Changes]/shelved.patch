@@ -1,0 +1,19 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Document</title>\n</head>\n<body>\n    <main>\n        <h1>Hello, Shuvo!</h1>\n        <p>This is a simple HTML document.</p>\n    </main>\n</body>\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	(revision a7175b8f87238ef927420f616e2da57141f0432a)
++++ b/index.html	(date 1755456218312)
+@@ -9,6 +9,7 @@
+     <main>
+         <h1>Hello, Shuvo!</h1>
+         <p>This is a simple HTML document.</p>
++        <p>This is Kumu</p>
+     </main>
+ </body>
+ </html>
+\ No newline at end of file
